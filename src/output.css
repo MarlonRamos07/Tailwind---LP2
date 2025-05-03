@@ -213,6 +213,15 @@
   .table {
     display: table;
   }
+  .h-48 {
+    height: calc(var(--spacing) * 48);
+  }
+  .h-64 {
+    height: calc(var(--spacing) * 64);
+  }
+  .w-48 {
+    width: calc(var(--spacing) * 48);
+  }
   .border-collapse {
     border-collapse: collapse;
   }
@@ -281,6 +290,9 @@
   }
   .gap-x-10 {
     column-gap: calc(var(--spacing) * 10);
+  }
+  .gap-x-12 {
+    column-gap: calc(var(--spacing) * 12);
   }
   .gap-y-1 {
     row-gap: calc(var(--spacing) * 1);
