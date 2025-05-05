@@ -2,13 +2,13 @@
 
 **Tailwind---LP2** é um projeto de landing page desenvolvido com **Tailwind CSS**, como parte de atividade da disciplina de Desenvolvimento de Interfaces para Web da Universidade de Tecnologia FATEC Pel ( UniSenac). O objetivo é criar uma página web moderna, responsiva e fiel ao layout fornecido no Figma.
 
----
+
 
 ## 📌 Descrição
 
 Landing page construída a partir de um modelo no Figma, utilizando Tailwind CSS como base para o estilo, priorizando a fidelidade visual e boas práticas em desenvolvimento web moderno.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -17,7 +17,7 @@ Landing page construída a partir de um modelo no Figma, utilizando Tailwind CSS
 - Git & GitHub
 - Vite ou Live Server para desenvolvimento local
 
----
+
 
 ## 📁 Estrutura do Projeto
 
@@ -36,12 +36,12 @@ Tailwind---LP2/
 ## 🔧 Como Rodar o Projeto
 
 ### 1. Clone o Repositório
-```bash
+
 git clone https://github.com/MarlonRamos07/Tailwind---LP2
 cd Tailwind---LP2
 
 ### 2. Instale as Dependências (caso use Vite)
-```bash
+
 npm install
 
 ### 3. Execute o projeto
