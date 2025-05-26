@@ -22,15 +22,26 @@ Landing page construída a partir de um modelo no Figma, utilizando Tailwind CSS
 ## 📁 Estrutura do Projeto
 
 Tailwind---LP2/
+
 ├── index.html # Página principal do projeto
+
 ├── style.css # (Opcional) Estilos adicionais, se necessário
+
 ├── tailwind.config.js # Configuração do Tailwind CSS
+
 ├── postcss.config.js # Configuração do PostCSS
+
 ├── package.json # Dependências do projeto
+
 ├── /public # Arquivos públicos (favicon, etc.)
+
 ├── /src
+
+
 │ ├── /assets # Imagens e ícones utilizados
 │ └── main.js # Arquivo principal JS (caso esteja usando Vite)
+
+
 └── README.md
 
 ## 🔧 Como Rodar o Projeto
