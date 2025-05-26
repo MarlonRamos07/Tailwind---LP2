@@ -67,7 +67,7 @@ Você pode visualizar o layout original no Figma clicando no link abaixo:
 
 ## 💻 Link para o Projeto (Deploy feito com Vercel)
 
-https://tailwind-lp-3.vercel.app
+[hthttps://tailwind-lp-2.vercel.app/
 
 
 
